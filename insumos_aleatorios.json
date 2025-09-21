@@ -1,0 +1,1602 @@
+[
+    {
+        "id_insumo": 4843,
+        "nome": "Máscara N95",
+        "qtd_disponivel": 421,
+        "qtd_reservada": 20,
+        "qtd_total": 441,
+        "validade": "2025-06-15"
+    },
+    {
+        "id_insumo": 6968,
+        "nome": "Máscara N95",
+        "qtd_disponivel": 112,
+        "qtd_reservada": 40,
+        "qtd_total": 152,
+        "validade": "2025-01-10"
+    },
+    {
+        "id_insumo": 9182,
+        "nome": "Lamina",
+        "qtd_disponivel": 70,
+        "qtd_reservada": 21,
+        "qtd_total": 91,
+        "validade": "2025-08-09"
+    },
+    {
+        "id_insumo": 8644,
+        "nome": "Tubo de coleta",
+        "qtd_disponivel": 349,
+        "qtd_reservada": 13,
+        "qtd_total": 362,
+        "validade": "2026-12-25"
+    },
+    {
+        "id_insumo": 5253,
+        "nome": "Máscara N95",
+        "qtd_disponivel": 76,
+        "qtd_reservada": 27,
+        "qtd_total": 103,
+        "validade": "2026-01-06"
+    },
+    {
+        "id_insumo": 7429,
+        "nome": "Seringa 5ml",
+        "qtd_disponivel": 274,
+        "qtd_reservada": 4,
+        "qtd_total": 278,
+        "validade": "2025-10-03"
+    },
+    {
+        "id_insumo": 8992,
+        "nome": "Reagente A",
+        "qtd_disponivel": 343,
+        "qtd_reservada": 11,
+        "qtd_total": 354,
+        "validade": "2025-02-27"
+    },
+    {
+        "id_insumo": 1092,
+        "nome": "Reagente B",
+        "qtd_disponivel": 178,
+        "qtd_reservada": 31,
+        "qtd_total": 209,
+        "validade": "2026-04-17"
+    },
+    {
+        "id_insumo": 1142,
+        "nome": "Algodão",
+        "qtd_disponivel": 371,
+        "qtd_reservada": 34,
+        "qtd_total": 405,
+        "validade": "2025-09-22"
+    },
+    {
+        "id_insumo": 4101,
+        "nome": "Seringa 5ml",
+        "qtd_disponivel": 393,
+        "qtd_reservada": 29,
+        "qtd_total": 422,
+        "validade": "2026-05-18"
+    },
+    {
+        "id_insumo": 8813,
+        "nome": "Algodão",
+        "qtd_disponivel": 41,
+        "qtd_reservada": 8,
+        "qtd_total": 49,
+        "validade": "2025-03-20"
+    },
+    {
+        "id_insumo": 7078,
+        "nome": "Algodão",
+        "qtd_disponivel": 124,
+        "qtd_reservada": 45,
+        "qtd_total": 169,
+        "validade": "2026-07-04"
+    },
+    {
+        "id_insumo": 1969,
+        "nome": "Algodão",
+        "qtd_disponivel": 184,
+        "qtd_reservada": 20,
+        "qtd_total": 204,
+        "validade": "2026-05-26"
+    },
+    {
+        "id_insumo": 8206,
+        "nome": "Frasco esterilizado",
+        "qtd_disponivel": 245,
+        "qtd_reservada": 27,
+        "qtd_total": 272,
+        "validade": "2025-12-17"
+    },
+    {
+        "id_insumo": 3987,
+        "nome": "Máscara N95",
+        "qtd_disponivel": 315,
+        "qtd_reservada": 44,
+        "qtd_total": 359,
+        "validade": "2026-03-04"
+    },
+    {
+        "id_insumo": 4905,
+        "nome": "Luvas Descartáveis",
+        "qtd_disponivel": 436,
+        "qtd_reservada": 27,
+        "qtd_total": 463,
+        "validade": "2025-11-20"
+    },
+    {
+        "id_insumo": 4977,
+        "nome": "Luvas Descartáveis",
+        "qtd_disponivel": 398,
+        "qtd_reservada": 41,
+        "qtd_total": 439,
+        "validade": "2026-06-11"
+    },
+    {
+        "id_insumo": 3036,
+        "nome": "Seringa 5ml",
+        "qtd_disponivel": 332,
+        "qtd_reservada": 40,
+        "qtd_total": 372,
+        "validade": "2026-09-06"
+    },
+    {
+        "id_insumo": 3691,
+        "nome": "Seringa 5ml",
+        "qtd_disponivel": 70,
+        "qtd_reservada": 39,
+        "qtd_total": 109,
+        "validade": "2026-01-10"
+    },
+    {
+        "id_insumo": 5859,
+        "nome": "Seringa 5ml",
+        "qtd_disponivel": 201,
+        "qtd_reservada": 32,
+        "qtd_total": 233,
+        "validade": "2025-01-26"
+    },
+    {
+        "id_insumo": 8361,
+        "nome": "Reagente B",
+        "qtd_disponivel": 307,
+        "qtd_reservada": 17,
+        "qtd_total": 324,
+        "validade": "2026-06-23"
+    },
+    {
+        "id_insumo": 5191,
+        "nome": "Algodão",
+        "qtd_disponivel": 309,
+        "qtd_reservada": 44,
+        "qtd_total": 353,
+        "validade": "2026-09-22"
+    },
+    {
+        "id_insumo": 2576,
+        "nome": "Tubo de coleta",
+        "qtd_disponivel": 425,
+        "qtd_reservada": 8,
+        "qtd_total": 433,
+        "validade": "2025-04-01"
+    },
+    {
+        "id_insumo": 2424,
+        "nome": "Algodão",
+        "qtd_disponivel": 244,
+        "qtd_reservada": 24,
+        "qtd_total": 268,
+        "validade": "2025-12-17"
+    },
+    {
+        "id_insumo": 5895,
+        "nome": "Reagente B",
+        "qtd_disponivel": 496,
+        "qtd_reservada": 34,
+        "qtd_total": 530,
+        "validade": "2025-08-05"
+    },
+    {
+        "id_insumo": 8972,
+        "nome": "Algodão",
+        "qtd_disponivel": 179,
+        "qtd_reservada": 3,
+        "qtd_total": 182,
+        "validade": "2025-05-18"
+    },
+    {
+        "id_insumo": 1446,
+        "nome": "Swab",
+        "qtd_disponivel": 394,
+        "qtd_reservada": 38,
+        "qtd_total": 432,
+        "validade": "2026-02-15"
+    },
+    {
+        "id_insumo": 1738,
+        "nome": "Reagente B",
+        "qtd_disponivel": 286,
+        "qtd_reservada": 43,
+        "qtd_total": 329,
+        "validade": "2025-03-24"
+    },
+    {
+        "id_insumo": 2880,
+        "nome": "Máscara N95",
+        "qtd_disponivel": 301,
+        "qtd_reservada": 49,
+        "qtd_total": 350,
+        "validade": "2026-07-20"
+    },
+    {
+        "id_insumo": 6337,
+        "nome": "Swab",
+        "qtd_disponivel": 137,
+        "qtd_reservada": 36,
+        "qtd_total": 173,
+        "validade": "2026-12-21"
+    },
+    {
+        "id_insumo": 2519,
+        "nome": "Swab",
+        "qtd_disponivel": 427,
+        "qtd_reservada": 22,
+        "qtd_total": 449,
+        "validade": "2026-05-02"
+    },
+    {
+        "id_insumo": 8790,
+        "nome": "Lamina",
+        "qtd_disponivel": 183,
+        "qtd_reservada": 17,
+        "qtd_total": 200,
+        "validade": "2026-04-17"
+    },
+    {
+        "id_insumo": 5177,
+        "nome": "Tubo de coleta",
+        "qtd_disponivel": 419,
+        "qtd_reservada": 20,
+        "qtd_total": 439,
+        "validade": "2025-07-04"
+    },
+    {
+        "id_insumo": 7859,
+        "nome": "Lamina",
+        "qtd_disponivel": 334,
+        "qtd_reservada": 44,
+        "qtd_total": 378,
+        "validade": "2026-12-01"
+    },
+    {
+        "id_insumo": 5964,
+        "nome": "Tubo de coleta",
+        "qtd_disponivel": 148,
+        "qtd_reservada": 25,
+        "qtd_total": 173,
+        "validade": "2025-06-15"
+    },
+    {
+        "id_insumo": 7786,
+        "nome": "Tubo de coleta",
+        "qtd_disponivel": 178,
+        "qtd_reservada": 46,
+        "qtd_total": 224,
+        "validade": "2025-11-16"
+    },
+    {
+        "id_insumo": 1698,
+        "nome": "Algodão",
+        "qtd_disponivel": 437,
+        "qtd_reservada": 0,
+        "qtd_total": 437,
+        "validade": "2026-12-05"
+    },
+    {
+        "id_insumo": 2629,
+        "nome": "Tubo de coleta",
+        "qtd_disponivel": 102,
+        "qtd_reservada": 3,
+        "qtd_total": 105,
+        "validade": "2025-11-20"
+    },
+    {
+        "id_insumo": 3083,
+        "nome": "Máscara N95",
+        "qtd_disponivel": 306,
+        "qtd_reservada": 31,
+        "qtd_total": 337,
+        "validade": "2025-11-16"
+    },
+    {
+        "id_insumo": 7857,
+        "nome": "Luvas Descartáveis",
+        "qtd_disponivel": 219,
+        "qtd_reservada": 10,
+        "qtd_total": 229,
+        "validade": "2025-08-09"
+    },
+    {
+        "id_insumo": 5988,
+        "nome": "Tubo de coleta",
+        "qtd_disponivel": 461,
+        "qtd_reservada": 43,
+        "qtd_total": 504,
+        "validade": "2026-11-08"
+    },
+    {
+        "id_insumo": 6409,
+        "nome": "Reagente B",
+        "qtd_disponivel": 408,
+        "qtd_reservada": 36,
+        "qtd_total": 444,
+        "validade": "2026-11-20"
+    },
+    {
+        "id_insumo": 4352,
+        "nome": "Algodão",
+        "qtd_disponivel": 247,
+        "qtd_reservada": 0,
+        "qtd_total": 247,
+        "validade": "2026-06-23"
+    },
+    {
+        "id_insumo": 8120,
+        "nome": "Reagente B",
+        "qtd_disponivel": 174,
+        "qtd_reservada": 8,
+        "qtd_total": 182,
+        "validade": "2025-11-16"
+    },
+    {
+        "id_insumo": 7846,
+        "nome": "Lamina",
+        "qtd_disponivel": 140,
+        "qtd_reservada": 16,
+        "qtd_total": 156,
+        "validade": "2025-04-13"
+    },
+    {
+        "id_insumo": 9646,
+        "nome": "Lamina",
+        "qtd_disponivel": 388,
+        "qtd_reservada": 36,
+        "qtd_total": 424,
+        "validade": "2026-07-12"
+    },
+    {
+        "id_insumo": 2115,
+        "nome": "Algodão",
+        "qtd_disponivel": 419,
+        "qtd_reservada": 2,
+        "qtd_total": 421,
+        "validade": "2026-07-20"
+    },
+    {
+        "id_insumo": 5740,
+        "nome": "Seringa 5ml",
+        "qtd_disponivel": 235,
+        "qtd_reservada": 46,
+        "qtd_total": 281,
+        "validade": "2025-12-09"
+    },
+    {
+        "id_insumo": 7616,
+        "nome": "Swab",
+        "qtd_disponivel": 161,
+        "qtd_reservada": 0,
+        "qtd_total": 161,
+        "validade": "2026-04-01"
+    },
+    {
+        "id_insumo": 5173,
+        "nome": "Reagente A",
+        "qtd_disponivel": 25,
+        "qtd_reservada": 28,
+        "qtd_total": 53,
+        "validade": "2026-11-16"
+    },
+    {
+        "id_insumo": 7116,
+        "nome": "Luvas Descartáveis",
+        "qtd_disponivel": 265,
+        "qtd_reservada": 25,
+        "qtd_total": 290,
+        "validade": "2026-09-14"
+    },
+    {
+        "id_insumo": 8903,
+        "nome": "Swab",
+        "qtd_disponivel": 25,
+        "qtd_reservada": 21,
+        "qtd_total": 46,
+        "validade": "2026-02-15"
+    },
+    {
+        "id_insumo": 2713,
+        "nome": "Luvas Descartáveis",
+        "qtd_disponivel": 297,
+        "qtd_reservada": 27,
+        "qtd_total": 324,
+        "validade": "2026-10-15"
+    },
+    {
+        "id_insumo": 3555,
+        "nome": "Lamina",
+        "qtd_disponivel": 426,
+        "qtd_reservada": 3,
+        "qtd_total": 429,
+        "validade": "2026-01-14"
+    },
+    {
+        "id_insumo": 1609,
+        "nome": "Swab",
+        "qtd_disponivel": 216,
+        "qtd_reservada": 44,
+        "qtd_total": 260,
+        "validade": "2026-08-25"
+    },
+    {
+        "id_insumo": 7166,
+        "nome": "Seringa 5ml",
+        "qtd_disponivel": 403,
+        "qtd_reservada": 10,
+        "qtd_total": 413,
+        "validade": "2026-09-02"
+    },
+    {
+        "id_insumo": 3037,
+        "nome": "Lamina",
+        "qtd_disponivel": 25,
+        "qtd_reservada": 40,
+        "qtd_total": 65,
+        "validade": "2026-09-18"
+    },
+    {
+        "id_insumo": 7000,
+        "nome": "Reagente A",
+        "qtd_disponivel": 202,
+        "qtd_reservada": 49,
+        "qtd_total": 251,
+        "validade": "2025-09-18"
+    },
+    {
+        "id_insumo": 1890,
+        "nome": "Reagente B",
+        "qtd_disponivel": 83,
+        "qtd_reservada": 13,
+        "qtd_total": 96,
+        "validade": "2025-06-19"
+    },
+    {
+        "id_insumo": 6175,
+        "nome": "Tubo de coleta",
+        "qtd_disponivel": 79,
+        "qtd_reservada": 15,
+        "qtd_total": 94,
+        "validade": "2025-01-14"
+    },
+    {
+        "id_insumo": 6723,
+        "nome": "Reagente B",
+        "qtd_disponivel": 140,
+        "qtd_reservada": 31,
+        "qtd_total": 171,
+        "validade": "2026-09-22"
+    },
+    {
+        "id_insumo": 1892,
+        "nome": "Swab",
+        "qtd_disponivel": 267,
+        "qtd_reservada": 29,
+        "qtd_total": 296,
+        "validade": "2025-04-17"
+    },
+    {
+        "id_insumo": 8574,
+        "nome": "Luvas Descartáveis",
+        "qtd_disponivel": 294,
+        "qtd_reservada": 49,
+        "qtd_total": 343,
+        "validade": "2025-01-06"
+    },
+    {
+        "id_insumo": 7188,
+        "nome": "Reagente B",
+        "qtd_disponivel": 462,
+        "qtd_reservada": 0,
+        "qtd_total": 462,
+        "validade": "2025-03-08"
+    },
+    {
+        "id_insumo": 4079,
+        "nome": "Reagente B",
+        "qtd_disponivel": 124,
+        "qtd_reservada": 35,
+        "qtd_total": 159,
+        "validade": "2025-11-16"
+    },
+    {
+        "id_insumo": 5824,
+        "nome": "Swab",
+        "qtd_disponivel": 424,
+        "qtd_reservada": 2,
+        "qtd_total": 426,
+        "validade": "2026-04-13"
+    },
+    {
+        "id_insumo": 4361,
+        "nome": "Seringa 5ml",
+        "qtd_disponivel": 350,
+        "qtd_reservada": 50,
+        "qtd_total": 400,
+        "validade": "2026-11-20"
+    },
+    {
+        "id_insumo": 1084,
+        "nome": "Reagente B",
+        "qtd_disponivel": 189,
+        "qtd_reservada": 36,
+        "qtd_total": 225,
+        "validade": "2026-06-19"
+    },
+    {
+        "id_insumo": 7066,
+        "nome": "Algodão",
+        "qtd_disponivel": 80,
+        "qtd_reservada": 34,
+        "qtd_total": 114,
+        "validade": "2025-10-03"
+    },
+    {
+        "id_insumo": 4706,
+        "nome": "Tubo de coleta",
+        "qtd_disponivel": 144,
+        "qtd_reservada": 50,
+        "qtd_total": 194,
+        "validade": "2026-07-28"
+    },
+    {
+        "id_insumo": 4040,
+        "nome": "Algodão",
+        "qtd_disponivel": 391,
+        "qtd_reservada": 50,
+        "qtd_total": 441,
+        "validade": "2025-08-21"
+    },
+    {
+        "id_insumo": 9195,
+        "nome": "Reagente A",
+        "qtd_disponivel": 170,
+        "qtd_reservada": 28,
+        "qtd_total": 198,
+        "validade": "2025-12-09"
+    },
+    {
+        "id_insumo": 1266,
+        "nome": "Reagente B",
+        "qtd_disponivel": 259,
+        "qtd_reservada": 28,
+        "qtd_total": 287,
+        "validade": "2025-06-07"
+    },
+    {
+        "id_insumo": 2823,
+        "nome": "Máscara N95",
+        "qtd_disponivel": 161,
+        "qtd_reservada": 29,
+        "qtd_total": 190,
+        "validade": "2026-11-08"
+    },
+    {
+        "id_insumo": 6860,
+        "nome": "Luvas Descartáveis",
+        "qtd_disponivel": 422,
+        "qtd_reservada": 4,
+        "qtd_total": 426,
+        "validade": "2025-06-07"
+    },
+    {
+        "id_insumo": 9308,
+        "nome": "Lamina",
+        "qtd_disponivel": 144,
+        "qtd_reservada": 29,
+        "qtd_total": 173,
+        "validade": "2026-11-20"
+    },
+    {
+        "id_insumo": 5702,
+        "nome": "Algodão",
+        "qtd_disponivel": 435,
+        "qtd_reservada": 2,
+        "qtd_total": 437,
+        "validade": "2025-05-26"
+    },
+    {
+        "id_insumo": 3944,
+        "nome": "Tubo de coleta",
+        "qtd_disponivel": 203,
+        "qtd_reservada": 0,
+        "qtd_total": 203,
+        "validade": "2026-06-19"
+    },
+    {
+        "id_insumo": 8426,
+        "nome": "Seringa 5ml",
+        "qtd_disponivel": 310,
+        "qtd_reservada": 9,
+        "qtd_total": 319,
+        "validade": "2026-02-19"
+    },
+    {
+        "id_insumo": 9546,
+        "nome": "Luvas Descartáveis",
+        "qtd_disponivel": 259,
+        "qtd_reservada": 42,
+        "qtd_total": 301,
+        "validade": "2025-03-24"
+    },
+    {
+        "id_insumo": 3735,
+        "nome": "Tubo de coleta",
+        "qtd_disponivel": 471,
+        "qtd_reservada": 50,
+        "qtd_total": 521,
+        "validade": "2025-04-21"
+    },
+    {
+        "id_insumo": 9227,
+        "nome": "Máscara N95",
+        "qtd_disponivel": 98,
+        "qtd_reservada": 45,
+        "qtd_total": 143,
+        "validade": "2025-02-11"
+    },
+    {
+        "id_insumo": 9517,
+        "nome": "Lamina",
+        "qtd_disponivel": 360,
+        "qtd_reservada": 34,
+        "qtd_total": 394,
+        "validade": "2026-03-24"
+    },
+    {
+        "id_insumo": 6286,
+        "nome": "Reagente B",
+        "qtd_disponivel": 73,
+        "qtd_reservada": 5,
+        "qtd_total": 78,
+        "validade": "2026-07-08"
+    },
+    {
+        "id_insumo": 8620,
+        "nome": "Máscara N95",
+        "qtd_disponivel": 243,
+        "qtd_reservada": 1,
+        "qtd_total": 244,
+        "validade": "2026-02-15"
+    },
+    {
+        "id_insumo": 8134,
+        "nome": "Lamina",
+        "qtd_disponivel": 288,
+        "qtd_reservada": 12,
+        "qtd_total": 300,
+        "validade": "2026-06-19"
+    },
+    {
+        "id_insumo": 6791,
+        "nome": "Luvas Descartáveis",
+        "qtd_disponivel": 441,
+        "qtd_reservada": 31,
+        "qtd_total": 472,
+        "validade": "2026-08-13"
+    },
+    {
+        "id_insumo": 9122,
+        "nome": "Máscara N95",
+        "qtd_disponivel": 415,
+        "qtd_reservada": 1,
+        "qtd_total": 416,
+        "validade": "2025-11-08"
+    },
+    {
+        "id_insumo": 9861,
+        "nome": "Luvas Descartáveis",
+        "qtd_disponivel": 57,
+        "qtd_reservada": 37,
+        "qtd_total": 94,
+        "validade": "2026-08-09"
+    },
+    {
+        "id_insumo": 7621,
+        "nome": "Máscara N95",
+        "qtd_disponivel": 449,
+        "qtd_reservada": 29,
+        "qtd_total": 478,
+        "validade": "2026-09-18"
+    },
+    {
+        "id_insumo": 1270,
+        "nome": "Reagente B",
+        "qtd_disponivel": 142,
+        "qtd_reservada": 45,
+        "qtd_total": 187,
+        "validade": "2026-02-15"
+    },
+    {
+        "id_insumo": 2501,
+        "nome": "Tubo de coleta",
+        "qtd_disponivel": 322,
+        "qtd_reservada": 37,
+        "qtd_total": 359,
+        "validade": "2026-03-16"
+    },
+    {
+        "id_insumo": 3785,
+        "nome": "Seringa 5ml",
+        "qtd_disponivel": 216,
+        "qtd_reservada": 38,
+        "qtd_total": 254,
+        "validade": "2025-11-24"
+    },
+    {
+        "id_insumo": 9890,
+        "nome": "Algodão",
+        "qtd_disponivel": 499,
+        "qtd_reservada": 50,
+        "qtd_total": 549,
+        "validade": "2026-09-14"
+    },
+    {
+        "id_insumo": 6089,
+        "nome": "Lamina",
+        "qtd_disponivel": 388,
+        "qtd_reservada": 44,
+        "qtd_total": 432,
+        "validade": "2025-04-05"
+    },
+    {
+        "id_insumo": 3919,
+        "nome": "Swab",
+        "qtd_disponivel": 171,
+        "qtd_reservada": 19,
+        "qtd_total": 190,
+        "validade": "2025-11-28"
+    },
+    {
+        "id_insumo": 6837,
+        "nome": "Luvas Descartáveis",
+        "qtd_disponivel": 50,
+        "qtd_reservada": 2,
+        "qtd_total": 52,
+        "validade": "2025-07-04"
+    },
+    {
+        "id_insumo": 3040,
+        "nome": "Reagente A",
+        "qtd_disponivel": 170,
+        "qtd_reservada": 47,
+        "qtd_total": 217,
+        "validade": "2026-05-02"
+    },
+    {
+        "id_insumo": 1827,
+        "nome": "Seringa 5ml",
+        "qtd_disponivel": 356,
+        "qtd_reservada": 27,
+        "qtd_total": 383,
+        "validade": "2025-10-27"
+    },
+    {
+        "id_insumo": 4089,
+        "nome": "Reagente B",
+        "qtd_disponivel": 117,
+        "qtd_reservada": 22,
+        "qtd_total": 139,
+        "validade": "2026-02-11"
+    },
+    {
+        "id_insumo": 6607,
+        "nome": "Seringa 5ml",
+        "qtd_disponivel": 130,
+        "qtd_reservada": 36,
+        "qtd_total": 166,
+        "validade": "2025-06-11"
+    },
+    {
+        "id_insumo": 8913,
+        "nome": "Máscara N95",
+        "qtd_disponivel": 30,
+        "qtd_reservada": 36,
+        "qtd_total": 66,
+        "validade": "2025-02-03"
+    },
+    {
+        "id_insumo": 7917,
+        "nome": "Reagente A",
+        "qtd_disponivel": 52,
+        "qtd_reservada": 44,
+        "qtd_total": 96,
+        "validade": "2025-01-22"
+    },
+    {
+        "id_insumo": 2625,
+        "nome": "Frasco esterilizado",
+        "qtd_disponivel": 35,
+        "qtd_reservada": 25,
+        "qtd_total": 60,
+        "validade": "2025-03-24"
+    },
+    {
+        "id_insumo": 6068,
+        "nome": "Máscara N95",
+        "qtd_disponivel": 293,
+        "qtd_reservada": 18,
+        "qtd_total": 311,
+        "validade": "2025-09-02"
+    },
+    {
+        "id_insumo": 6426,
+        "nome": "Lamina",
+        "qtd_disponivel": 282,
+        "qtd_reservada": 4,
+        "qtd_total": 286,
+        "validade": "2026-07-28"
+    },
+    {
+        "id_insumo": 8261,
+        "nome": "Reagente B",
+        "qtd_disponivel": 474,
+        "qtd_reservada": 22,
+        "qtd_total": 496,
+        "validade": "2026-04-13"
+    },
+    {
+        "id_insumo": 4881,
+        "nome": "Algodão",
+        "qtd_disponivel": 188,
+        "qtd_reservada": 17,
+        "qtd_total": 205,
+        "validade": "2026-03-28"
+    },
+    {
+        "id_insumo": 4258,
+        "nome": "Swab",
+        "qtd_disponivel": 97,
+        "qtd_reservada": 36,
+        "qtd_total": 133,
+        "validade": "2026-07-16"
+    },
+    {
+        "id_insumo": 4308,
+        "nome": "Tubo de coleta",
+        "qtd_disponivel": 292,
+        "qtd_reservada": 19,
+        "qtd_total": 311,
+        "validade": "2025-12-05"
+    },
+    {
+        "id_insumo": 9335,
+        "nome": "Tubo de coleta",
+        "qtd_disponivel": 374,
+        "qtd_reservada": 42,
+        "qtd_total": 416,
+        "validade": "2026-09-06"
+    },
+    {
+        "id_insumo": 9587,
+        "nome": "Seringa 5ml",
+        "qtd_disponivel": 243,
+        "qtd_reservada": 23,
+        "qtd_total": 266,
+        "validade": "2026-03-16"
+    },
+    {
+        "id_insumo": 5944,
+        "nome": "Swab",
+        "qtd_disponivel": 36,
+        "qtd_reservada": 33,
+        "qtd_total": 69,
+        "validade": "2026-04-17"
+    },
+    {
+        "id_insumo": 3977,
+        "nome": "Seringa 5ml",
+        "qtd_disponivel": 73,
+        "qtd_reservada": 15,
+        "qtd_total": 88,
+        "validade": "2026-02-03"
+    },
+    {
+        "id_insumo": 6171,
+        "nome": "Tubo de coleta",
+        "qtd_disponivel": 115,
+        "qtd_reservada": 12,
+        "qtd_total": 127,
+        "validade": "2026-10-15"
+    },
+    {
+        "id_insumo": 3270,
+        "nome": "Swab",
+        "qtd_disponivel": 377,
+        "qtd_reservada": 8,
+        "qtd_total": 385,
+        "validade": "2025-12-05"
+    },
+    {
+        "id_insumo": 2805,
+        "nome": "Reagente B",
+        "qtd_disponivel": 189,
+        "qtd_reservada": 38,
+        "qtd_total": 227,
+        "validade": "2026-11-12"
+    },
+    {
+        "id_insumo": 8430,
+        "nome": "Tubo de coleta",
+        "qtd_disponivel": 457,
+        "qtd_reservada": 29,
+        "qtd_total": 486,
+        "validade": "2025-11-24"
+    },
+    {
+        "id_insumo": 2044,
+        "nome": "Reagente B",
+        "qtd_disponivel": 452,
+        "qtd_reservada": 1,
+        "qtd_total": 453,
+        "validade": "2026-10-27"
+    },
+    {
+        "id_insumo": 9003,
+        "nome": "Seringa 5ml",
+        "qtd_disponivel": 456,
+        "qtd_reservada": 43,
+        "qtd_total": 499,
+        "validade": "2026-12-01"
+    },
+    {
+        "id_insumo": 6074,
+        "nome": "Seringa 5ml",
+        "qtd_disponivel": 369,
+        "qtd_reservada": 15,
+        "qtd_total": 384,
+        "validade": "2025-10-07"
+    },
+    {
+        "id_insumo": 3591,
+        "nome": "Algodão",
+        "qtd_disponivel": 311,
+        "qtd_reservada": 44,
+        "qtd_total": 355,
+        "validade": "2025-03-16"
+    },
+    {
+        "id_insumo": 7619,
+        "nome": "Máscara N95",
+        "qtd_disponivel": 239,
+        "qtd_reservada": 47,
+        "qtd_total": 286,
+        "validade": "2025-04-01"
+    },
+    {
+        "id_insumo": 6510,
+        "nome": "Lamina",
+        "qtd_disponivel": 420,
+        "qtd_reservada": 14,
+        "qtd_total": 434,
+        "validade": "2025-02-19"
+    },
+    {
+        "id_insumo": 1023,
+        "nome": "Lamina",
+        "qtd_disponivel": 470,
+        "qtd_reservada": 33,
+        "qtd_total": 503,
+        "validade": "2025-11-16"
+    },
+    {
+        "id_insumo": 9631,
+        "nome": "Luvas Descartáveis",
+        "qtd_disponivel": 476,
+        "qtd_reservada": 26,
+        "qtd_total": 502,
+        "validade": "2026-07-04"
+    },
+    {
+        "id_insumo": 9798,
+        "nome": "Luvas Descartáveis",
+        "qtd_disponivel": 55,
+        "qtd_reservada": 5,
+        "qtd_total": 60,
+        "validade": "2025-12-13"
+    },
+    {
+        "id_insumo": 8950,
+        "nome": "Reagente B",
+        "qtd_disponivel": 155,
+        "qtd_reservada": 19,
+        "qtd_total": 174,
+        "validade": "2026-04-17"
+    },
+    {
+        "id_insumo": 2074,
+        "nome": "Tubo de coleta",
+        "qtd_disponivel": 484,
+        "qtd_reservada": 42,
+        "qtd_total": 526,
+        "validade": "2026-03-16"
+    },
+    {
+        "id_insumo": 1658,
+        "nome": "Tubo de coleta",
+        "qtd_disponivel": 478,
+        "qtd_reservada": 0,
+        "qtd_total": 478,
+        "validade": "2026-11-28"
+    },
+    {
+        "id_insumo": 2533,
+        "nome": "Reagente A",
+        "qtd_disponivel": 322,
+        "qtd_reservada": 40,
+        "qtd_total": 362,
+        "validade": "2025-12-21"
+    },
+    {
+        "id_insumo": 9331,
+        "nome": "Algodão",
+        "qtd_disponivel": 381,
+        "qtd_reservada": 18,
+        "qtd_total": 399,
+        "validade": "2025-03-20"
+    },
+    {
+        "id_insumo": 2468,
+        "nome": "Lamina",
+        "qtd_disponivel": 89,
+        "qtd_reservada": 46,
+        "qtd_total": 135,
+        "validade": "2025-03-24"
+    },
+    {
+        "id_insumo": 9958,
+        "nome": "Frasco esterilizado",
+        "qtd_disponivel": 298,
+        "qtd_reservada": 27,
+        "qtd_total": 325,
+        "validade": "2026-01-26"
+    },
+    {
+        "id_insumo": 2287,
+        "nome": "Seringa 5ml",
+        "qtd_disponivel": 188,
+        "qtd_reservada": 26,
+        "qtd_total": 214,
+        "validade": "2025-12-17"
+    },
+    {
+        "id_insumo": 3772,
+        "nome": "Swab",
+        "qtd_disponivel": 499,
+        "qtd_reservada": 26,
+        "qtd_total": 525,
+        "validade": "2025-03-24"
+    },
+    {
+        "id_insumo": 5355,
+        "nome": "Frasco esterilizado",
+        "qtd_disponivel": 34,
+        "qtd_reservada": 12,
+        "qtd_total": 46,
+        "validade": "2025-10-27"
+    },
+    {
+        "id_insumo": 2061,
+        "nome": "Máscara N95",
+        "qtd_disponivel": 463,
+        "qtd_reservada": 19,
+        "qtd_total": 482,
+        "validade": "2025-11-04"
+    },
+    {
+        "id_insumo": 2283,
+        "nome": "Seringa 5ml",
+        "qtd_disponivel": 33,
+        "qtd_reservada": 45,
+        "qtd_total": 78,
+        "validade": "2026-03-04"
+    },
+    {
+        "id_insumo": 9362,
+        "nome": "Reagente B",
+        "qtd_disponivel": 454,
+        "qtd_reservada": 39,
+        "qtd_total": 493,
+        "validade": "2025-08-21"
+    },
+    {
+        "id_insumo": 6548,
+        "nome": "Luvas Descartáveis",
+        "qtd_disponivel": 396,
+        "qtd_reservada": 29,
+        "qtd_total": 425,
+        "validade": "2025-09-10"
+    },
+    {
+        "id_insumo": 1810,
+        "nome": "Luvas Descartáveis",
+        "qtd_disponivel": 327,
+        "qtd_reservada": 26,
+        "qtd_total": 353,
+        "validade": "2025-04-25"
+    },
+    {
+        "id_insumo": 2178,
+        "nome": "Seringa 5ml",
+        "qtd_disponivel": 324,
+        "qtd_reservada": 12,
+        "qtd_total": 336,
+        "validade": "2026-05-26"
+    },
+    {
+        "id_insumo": 8684,
+        "nome": "Luvas Descartáveis",
+        "qtd_disponivel": 37,
+        "qtd_reservada": 16,
+        "qtd_total": 53,
+        "validade": "2026-05-06"
+    },
+    {
+        "id_insumo": 2747,
+        "nome": "Lamina",
+        "qtd_disponivel": 439,
+        "qtd_reservada": 16,
+        "qtd_total": 455,
+        "validade": "2026-10-15"
+    },
+    {
+        "id_insumo": 8460,
+        "nome": "Reagente B",
+        "qtd_disponivel": 317,
+        "qtd_reservada": 13,
+        "qtd_total": 330,
+        "validade": "2025-08-17"
+    },
+    {
+        "id_insumo": 5436,
+        "nome": "Seringa 5ml",
+        "qtd_disponivel": 168,
+        "qtd_reservada": 11,
+        "qtd_total": 179,
+        "validade": "2026-02-15"
+    },
+    {
+        "id_insumo": 2883,
+        "nome": "Algodão",
+        "qtd_disponivel": 452,
+        "qtd_reservada": 40,
+        "qtd_total": 492,
+        "validade": "2025-09-10"
+    },
+    {
+        "id_insumo": 8427,
+        "nome": "Reagente A",
+        "qtd_disponivel": 359,
+        "qtd_reservada": 4,
+        "qtd_total": 363,
+        "validade": "2026-11-28"
+    },
+    {
+        "id_insumo": 7183,
+        "nome": "Frasco esterilizado",
+        "qtd_disponivel": 90,
+        "qtd_reservada": 28,
+        "qtd_total": 118,
+        "validade": "2025-06-11"
+    },
+    {
+        "id_insumo": 4730,
+        "nome": "Algodão",
+        "qtd_disponivel": 452,
+        "qtd_reservada": 20,
+        "qtd_total": 472,
+        "validade": "2026-06-11"
+    },
+    {
+        "id_insumo": 2180,
+        "nome": "Algodão",
+        "qtd_disponivel": 386,
+        "qtd_reservada": 41,
+        "qtd_total": 427,
+        "validade": "2025-01-06"
+    },
+    {
+        "id_insumo": 2746,
+        "nome": "Seringa 5ml",
+        "qtd_disponivel": 143,
+        "qtd_reservada": 4,
+        "qtd_total": 147,
+        "validade": "2026-07-04"
+    },
+    {
+        "id_insumo": 8617,
+        "nome": "Frasco esterilizado",
+        "qtd_disponivel": 390,
+        "qtd_reservada": 24,
+        "qtd_total": 414,
+        "validade": "2026-08-21"
+    },
+    {
+        "id_insumo": 7689,
+        "nome": "Frasco esterilizado",
+        "qtd_disponivel": 422,
+        "qtd_reservada": 9,
+        "qtd_total": 431,
+        "validade": "2026-12-13"
+    },
+    {
+        "id_insumo": 9345,
+        "nome": "Reagente B",
+        "qtd_disponivel": 89,
+        "qtd_reservada": 28,
+        "qtd_total": 117,
+        "validade": "2026-04-05"
+    },
+    {
+        "id_insumo": 7148,
+        "nome": "Luvas Descartáveis",
+        "qtd_disponivel": 380,
+        "qtd_reservada": 25,
+        "qtd_total": 405,
+        "validade": "2026-07-16"
+    },
+    {
+        "id_insumo": 4026,
+        "nome": "Reagente A",
+        "qtd_disponivel": 138,
+        "qtd_reservada": 44,
+        "qtd_total": 182,
+        "validade": "2025-05-02"
+    },
+    {
+        "id_insumo": 3559,
+        "nome": "Swab",
+        "qtd_disponivel": 14,
+        "qtd_reservada": 34,
+        "qtd_total": 48,
+        "validade": "2026-03-08"
+    },
+    {
+        "id_insumo": 8158,
+        "nome": "Máscara N95",
+        "qtd_disponivel": 59,
+        "qtd_reservada": 22,
+        "qtd_total": 81,
+        "validade": "2025-08-09"
+    },
+    {
+        "id_insumo": 4474,
+        "nome": "Swab",
+        "qtd_disponivel": 255,
+        "qtd_reservada": 7,
+        "qtd_total": 262,
+        "validade": "2025-08-25"
+    },
+    {
+        "id_insumo": 4339,
+        "nome": "Seringa 5ml",
+        "qtd_disponivel": 482,
+        "qtd_reservada": 49,
+        "qtd_total": 531,
+        "validade": "2025-02-19"
+    },
+    {
+        "id_insumo": 6278,
+        "nome": "Reagente B",
+        "qtd_disponivel": 153,
+        "qtd_reservada": 4,
+        "qtd_total": 157,
+        "validade": "2025-07-04"
+    },
+    {
+        "id_insumo": 1739,
+        "nome": "Reagente B",
+        "qtd_disponivel": 355,
+        "qtd_reservada": 27,
+        "qtd_total": 382,
+        "validade": "2025-05-14"
+    },
+    {
+        "id_insumo": 9844,
+        "nome": "Seringa 5ml",
+        "qtd_disponivel": 456,
+        "qtd_reservada": 17,
+        "qtd_total": 473,
+        "validade": "2025-12-05"
+    },
+    {
+        "id_insumo": 9701,
+        "nome": "Frasco esterilizado",
+        "qtd_disponivel": 237,
+        "qtd_reservada": 24,
+        "qtd_total": 261,
+        "validade": "2025-08-25"
+    },
+    {
+        "id_insumo": 9186,
+        "nome": "Frasco esterilizado",
+        "qtd_disponivel": 263,
+        "qtd_reservada": 37,
+        "qtd_total": 300,
+        "validade": "2026-10-15"
+    },
+    {
+        "id_insumo": 6450,
+        "nome": "Swab",
+        "qtd_disponivel": 494,
+        "qtd_reservada": 28,
+        "qtd_total": 522,
+        "validade": "2026-11-24"
+    },
+    {
+        "id_insumo": 3964,
+        "nome": "Seringa 5ml",
+        "qtd_disponivel": 264,
+        "qtd_reservada": 5,
+        "qtd_total": 269,
+        "validade": "2026-04-25"
+    },
+    {
+        "id_insumo": 3079,
+        "nome": "Tubo de coleta",
+        "qtd_disponivel": 117,
+        "qtd_reservada": 22,
+        "qtd_total": 139,
+        "validade": "2025-09-26"
+    },
+    {
+        "id_insumo": 8543,
+        "nome": "Tubo de coleta",
+        "qtd_disponivel": 346,
+        "qtd_reservada": 22,
+        "qtd_total": 368,
+        "validade": "2025-09-18"
+    },
+    {
+        "id_insumo": 4179,
+        "nome": "Lamina",
+        "qtd_disponivel": 28,
+        "qtd_reservada": 15,
+        "qtd_total": 43,
+        "validade": "2026-01-26"
+    },
+    {
+        "id_insumo": 3222,
+        "nome": "Luvas Descartáveis",
+        "qtd_disponivel": 81,
+        "qtd_reservada": 32,
+        "qtd_total": 113,
+        "validade": "2026-09-10"
+    },
+    {
+        "id_insumo": 1713,
+        "nome": "Frasco esterilizado",
+        "qtd_disponivel": 419,
+        "qtd_reservada": 28,
+        "qtd_total": 447,
+        "validade": "2026-09-18"
+    },
+    {
+        "id_insumo": 6663,
+        "nome": "Swab",
+        "qtd_disponivel": 10,
+        "qtd_reservada": 18,
+        "qtd_total": 28,
+        "validade": "2026-11-28"
+    },
+    {
+        "id_insumo": 8892,
+        "nome": "Frasco esterilizado",
+        "qtd_disponivel": 70,
+        "qtd_reservada": 5,
+        "qtd_total": 75,
+        "validade": "2025-04-01"
+    },
+    {
+        "id_insumo": 7714,
+        "nome": "Máscara N95",
+        "qtd_disponivel": 63,
+        "qtd_reservada": 28,
+        "qtd_total": 91,
+        "validade": "2026-01-18"
+    },
+    {
+        "id_insumo": 9970,
+        "nome": "Frasco esterilizado",
+        "qtd_disponivel": 345,
+        "qtd_reservada": 34,
+        "qtd_total": 379,
+        "validade": "2026-02-11"
+    },
+    {
+        "id_insumo": 8006,
+        "nome": "Algodão",
+        "qtd_disponivel": 136,
+        "qtd_reservada": 6,
+        "qtd_total": 142,
+        "validade": "2025-08-01"
+    },
+    {
+        "id_insumo": 6575,
+        "nome": "Seringa 5ml",
+        "qtd_disponivel": 382,
+        "qtd_reservada": 38,
+        "qtd_total": 420,
+        "validade": "2026-04-21"
+    },
+    {
+        "id_insumo": 5079,
+        "nome": "Frasco esterilizado",
+        "qtd_disponivel": 329,
+        "qtd_reservada": 21,
+        "qtd_total": 350,
+        "validade": "2026-10-23"
+    },
+    {
+        "id_insumo": 9146,
+        "nome": "Frasco esterilizado",
+        "qtd_disponivel": 267,
+        "qtd_reservada": 36,
+        "qtd_total": 303,
+        "validade": "2025-02-03"
+    },
+    {
+        "id_insumo": 1924,
+        "nome": "Algodão",
+        "qtd_disponivel": 76,
+        "qtd_reservada": 12,
+        "qtd_total": 88,
+        "validade": "2025-06-03"
+    },
+    {
+        "id_insumo": 8863,
+        "nome": "Máscara N95",
+        "qtd_disponivel": 297,
+        "qtd_reservada": 17,
+        "qtd_total": 314,
+        "validade": "2025-02-15"
+    },
+    {
+        "id_insumo": 4312,
+        "nome": "Luvas Descartáveis",
+        "qtd_disponivel": 168,
+        "qtd_reservada": 48,
+        "qtd_total": 216,
+        "validade": "2025-12-25"
+    },
+    {
+        "id_insumo": 2372,
+        "nome": "Reagente B",
+        "qtd_disponivel": 70,
+        "qtd_reservada": 38,
+        "qtd_total": 108,
+        "validade": "2025-08-25"
+    },
+    {
+        "id_insumo": 8418,
+        "nome": "Seringa 5ml",
+        "qtd_disponivel": 450,
+        "qtd_reservada": 5,
+        "qtd_total": 455,
+        "validade": "2025-10-03"
+    },
+    {
+        "id_insumo": 6123,
+        "nome": "Reagente A",
+        "qtd_disponivel": 338,
+        "qtd_reservada": 14,
+        "qtd_total": 352,
+        "validade": "2026-07-28"
+    },
+    {
+        "id_insumo": 4717,
+        "nome": "Reagente A",
+        "qtd_disponivel": 141,
+        "qtd_reservada": 3,
+        "qtd_total": 144,
+        "validade": "2025-10-23"
+    },
+    {
+        "id_insumo": 2834,
+        "nome": "Máscara N95",
+        "qtd_disponivel": 493,
+        "qtd_reservada": 24,
+        "qtd_total": 517,
+        "validade": "2025-07-28"
+    },
+    {
+        "id_insumo": 6433,
+        "nome": "Swab",
+        "qtd_disponivel": 174,
+        "qtd_reservada": 43,
+        "qtd_total": 217,
+        "validade": "2025-03-20"
+    },
+    {
+        "id_insumo": 8139,
+        "nome": "Luvas Descartáveis",
+        "qtd_disponivel": 253,
+        "qtd_reservada": 17,
+        "qtd_total": 270,
+        "validade": "2026-08-25"
+    },
+    {
+        "id_insumo": 7915,
+        "nome": "Swab",
+        "qtd_disponivel": 340,
+        "qtd_reservada": 49,
+        "qtd_total": 389,
+        "validade": "2026-07-24"
+    },
+    {
+        "id_insumo": 7213,
+        "nome": "Lamina",
+        "qtd_disponivel": 39,
+        "qtd_reservada": 32,
+        "qtd_total": 71,
+        "validade": "2025-03-16"
+    },
+    {
+        "id_insumo": 2275,
+        "nome": "Seringa 5ml",
+        "qtd_disponivel": 117,
+        "qtd_reservada": 15,
+        "qtd_total": 132,
+        "validade": "2025-11-20"
+    },
+    {
+        "id_insumo": 3084,
+        "nome": "Luvas Descartáveis",
+        "qtd_disponivel": 143,
+        "qtd_reservada": 20,
+        "qtd_total": 163,
+        "validade": "2026-03-28"
+    },
+    {
+        "id_insumo": 2448,
+        "nome": "Reagente B",
+        "qtd_disponivel": 232,
+        "qtd_reservada": 11,
+        "qtd_total": 243,
+        "validade": "2025-03-20"
+    },
+    {
+        "id_insumo": 2028,
+        "nome": "Seringa 5ml",
+        "qtd_disponivel": 227,
+        "qtd_reservada": 20,
+        "qtd_total": 247,
+        "validade": "2025-12-05"
+    },
+    {
+        "id_insumo": 5289,
+        "nome": "Frasco esterilizado",
+        "qtd_disponivel": 171,
+        "qtd_reservada": 35,
+        "qtd_total": 206,
+        "validade": "2026-08-21"
+    },
+    {
+        "id_insumo": 7920,
+        "nome": "Reagente B",
+        "qtd_disponivel": 21,
+        "qtd_reservada": 35,
+        "qtd_total": 56,
+        "validade": "2026-12-13"
+    }
+]
