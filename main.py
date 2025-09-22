@@ -3,7 +3,7 @@
 import json
 import os
 import random
-DIVISOR = '=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-'
+DIVISOR = '=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-'
 DB_PATH = os.path.join(os.path.dirname(__file__), 'insumos_aleatorios.json')
 
 class Insumo:
